@@ -24,9 +24,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [here](https://github.com/JusticeJatau/Intro-section-with-dropdown-navigation)
+- Live Site URL: [here](https://justicejatau.github.io/Intro-section-with-dropdown-navigation/)
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/JusticeJatau)
+- Frontend Mentor - [@justicejatau](https://www.frontendmentor.io/profile/JusticeJatau)
