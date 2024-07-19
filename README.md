@@ -7,12 +7,12 @@ This is a solution to the [Intro section with dropdown navigation challenge on F
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Links](#links)
-- [Acknowledgments](#acknowledgments)
 - [Author](#author)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
+This is a solution to the Intro section with dropdown challenge on frontend mentor which i have completed
 
 ### The challenge
 
